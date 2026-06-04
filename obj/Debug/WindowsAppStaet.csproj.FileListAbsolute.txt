@@ -1,0 +1,12 @@
+D:\MyApp\Visual Studio\C#\WindowsAppStaet\bin\Debug\WindowsAppStaet.exe.config
+D:\MyApp\Visual Studio\C#\WindowsAppStaet\bin\Debug\WindowsAppStaet.exe
+D:\MyApp\Visual Studio\C#\WindowsAppStaet\bin\Debug\WindowsAppStaet.pdb
+D:\MyApp\Visual Studio\C#\WindowsAppStaet\obj\Debug\WindowsAppStaet.csproj.AssemblyReference.cache
+D:\MyApp\Visual Studio\C#\WindowsAppStaet\obj\Debug\Interop.IWshRuntimeLibrary.dll
+D:\MyApp\Visual Studio\C#\WindowsAppStaet\obj\Debug\WindowsAppStaet.csproj.ResolveComReference.cache
+D:\MyApp\Visual Studio\C#\WindowsAppStaet\obj\Debug\WindowsAppStaet.Form1.resources
+D:\MyApp\Visual Studio\C#\WindowsAppStaet\obj\Debug\WindowsAppStaet.Properties.Resources.resources
+D:\MyApp\Visual Studio\C#\WindowsAppStaet\obj\Debug\WindowsAppStaet.csproj.GenerateResource.cache
+D:\MyApp\Visual Studio\C#\WindowsAppStaet\obj\Debug\WindowsAppStaet.csproj.CoreCompileInputs.cache
+D:\MyApp\Visual Studio\C#\WindowsAppStaet\obj\Debug\WindowsAppStaet.exe
+D:\MyApp\Visual Studio\C#\WindowsAppStaet\obj\Debug\WindowsAppStaet.pdb
