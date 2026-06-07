@@ -4,7 +4,7 @@
 
 **WindowsAppStaet** 是一款用于生成带优先级和延迟的 Windows 自动启动脚本的工具。它解决了 Windows 系统开机自启无序性的问题，特别适用于需要优先启动某一程序（如提供运行环境、代理服务等）作为其他程序运行必须依赖项的场景。
 ### 演示视频地址：
-<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=116689798695142&bvid=BV1HQ7o61Erx&cid=38844629256&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+https://www.bilibili.com/video/BV1HQ7o61Erx/?share_source=copy_web&vd_source=8f734f1e86c1b345adc07138e11bb4e1
 ### 典型使用场景
 
 1. **外贸工作场景**：优先启动沟通工具（如 WhatsApp、Skype、微信等），确保与客户沟通无障碍
